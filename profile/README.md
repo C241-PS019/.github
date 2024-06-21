@@ -6,17 +6,17 @@ Pulih is an application that supports the improvement of mental health in educat
 
 ## Developers
 **Mobile Developer**
-- [Ir'fikri Anggara Hasbar](https://www.github.com/Irfikri0204)
-- [Muh. Kholil Gibran](https://www.github.com/muhkholilgibran)
+- [Ir'fikri Anggara Hasbar](github.com/Irfikri0204)
+- [Muh. Kholil Gibran](github.com/muhkholilgibran)
 
 **Cloud Computing**
-- [Afriza Tri Rizki](https://www.github.com/cuut24)
+- [Afriza Tri Rizki](https://github.com/cuutt24)
 - [M. Anjasfedo Afridiansah](https://www.github.com/Anjasfedo)
 
 **Machine Learning**
-- [Dimas Aditya Sahputra](https://www.github.com/cuut24)
-- [Nabila Aditya Azzahra](https://www.github.com/cuut24)
-- [Muhammad Arqam Syahputra](https://www.github.com/cuut24)
+- [Dimas Aditya Sahputra](github.com/Dimasahputra6)
+- [Nabila Aditya Azzahra]
+- [Muhammad Arqam Syahputra](github.com/Cidolf)
 
 ## Tools and Library
 
