@@ -15,7 +15,7 @@ Pulih is an application that supports the improvement of mental health in educat
 
 **Machine Learning**
 - [Dimas Aditya Sahputra](github.com/Dimasahputra6)
-- [Nabila Aditya Azzahra]
+- Nabila Aditya Azzahra
 - [Muhammad Arqam Syahputra](github.com/Cidolf)
 
 ## Tools and Library
